@@ -27,3 +27,8 @@ Quick start
    to create a poll (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
+
+PYPI Distribution
+-----------------
+
+Can be found at https://pypi.python.org/pypi?name=django-polls_1_10&version=0.1&:action=display
